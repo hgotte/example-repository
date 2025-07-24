@@ -17,9 +17,3 @@ elif name == "Pierre":
 else:
     print("Hello, this is unknown Peter!")
 
-def add_numbers(a=1, b=2)
-    return a + b
-    
-result = add_numbers(3, 4)
-
-print("The result of the addition is:", result)
